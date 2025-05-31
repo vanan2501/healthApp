@@ -1,0 +1,5 @@
+from django.test import TestCase
+
+# Create your tests here.
+CLIENT_ID = 'rJohftsGawcEsLXb3ZhUtn0u41pXMNoDyEwBQwV3'
+Client_secret= 'fl6g73D7VEhh8xPYCp8fzRAdKo3dVuERJ4MMomgIQSdAo4k5CiHazKqwFasvsDTHMtFa9u7VnsdXGuqNxpTOtlWrlTLAoB5qwDXvUakP4RiPTJVZz4nEFWvju4hEaZ5c'
